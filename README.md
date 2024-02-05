@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 👯 My name is Danil, I'm the curator. This is my GitHub page where you can find homeworks and stuff.
+
+- 🤔 I honestly don't know what to write here so I'll just let it be.
+
 <!--
 **dancurator/dancurator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
